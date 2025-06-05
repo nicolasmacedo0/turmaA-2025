@@ -1,0 +1,49 @@
+.bg-menu{
+    background-color: #006e1c;
+}
+.navbar-nav li a{
+    color: #ffffff !important;
+}
+.navbar-nav li a:hover{
+    color: #008f18 !important;
+}
+.navbar-nav li{
+    padding: 0 20px;
+}
+.navbar-brand{
+    color: #fff !important;
+    margin: 0px 30px;
+}
+.carousel-item img {
+      width: 200px;
+      height: 500px;
+}
+
+.container {
+    text-align: center;
+}
+
+.btn-success{
+    margin: 20px;
+}
+
+.bg-footer{
+    background-color: #007c0a !important;
+    color: #FFF !important;
+
+}
+.bg-footer a{
+    color: #FFF;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+.footer-link{
+    text-align: center;
+    text-decoration: none;
+}
+
+.footer-link p{
+    display: inline-block;
+    margin: 0 10px;
+}
